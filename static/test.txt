@@ -1,0 +1,2 @@
+ I am  Guddu Kumar. this is my django notes.
+ That is very important file. 
